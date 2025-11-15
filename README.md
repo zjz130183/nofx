@@ -34,6 +34,7 @@ This is an AI automated trading tool. Before use, please note:
 - 🐛 核心交易逻辑的 bug 修复
 - 📊 数据准确性（费用、P&L 等）
 - 🔄 系统稳定性（WebSocket、持久化等）
+- 🛠️ 系统易用性（工具优化、开发体验等）
 
 **This branch focuses on**:
 
@@ -41,6 +42,7 @@ This is an AI automated trading tool. Before use, please note:
 - 🐛 Core trading logic bug fixes
 - 📊 Data accuracy (fees, P&L, etc.)
 - 🔄 System stability (WebSocket, persistence, etc.)
+- 🛠️ System usability (tool optimization, developer experience, etc.)
 
 ---
 
